@@ -163,6 +163,11 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+    background-image: url("/assets/lake.jpg");
+    background-color: #dadbdc;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
 }
 
 .page-heading {
